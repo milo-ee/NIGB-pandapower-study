@@ -1,0 +1,6 @@
+load_scale,converged,min_voltage_pu,min_voltage_bus,max_line_loading_percent,max_line_name,max_transformer_loading_percent
+1.0,True,0.9787442913631274,Otahuhu 220 kV,81.09464738309288,Bunnythorpe-Hamilton,41.82601126472334
+1.1,True,0.9695761329777346,Otahuhu 220 kV,90.20490665418436,Bunnythorpe-Hamilton,46.09912690624081
+1.2,True,0.959946219724837,Otahuhu 220 kV,99.5464825264575,Bunnythorpe-Hamilton,50.39068275886661
+1.3,True,0.949809289665011,Otahuhu 220 kV,109.1382139859492,Bunnythorpe-Hamilton,54.70122957275632
+1.4,True,0.9391113853548416,Otahuhu 220 kV,119.00481311787546,Bunnythorpe-Hamilton,59.03133770665544

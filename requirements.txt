@@ -1,0 +1,4 @@
+pandapower==3.4.0
+pandas
+matplotlib
+openpyxl
